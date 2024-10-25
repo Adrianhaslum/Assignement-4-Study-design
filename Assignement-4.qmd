@@ -1,0 +1,123 @@
+---
+title: "Assignement-4-Study-Design"
+format: html
+editor: visual
+---
+
+# Innledning
+
+I denne oppgaven skal jeg undersøke 5 ulike forskningsartikler som alle undersøker hvordan intensitet påvirker muskel hypertrofi. I de inkluderte studiene omtales intensitet som; "hvor nær treningen er til muskulær utmattelse". Denne undersøkelsen skal rette fokus mot studienes design og deres seleksjon av statistiske analyser.
+
+Dette området innenfor fitness og kroppsbygger verdenen har utviklet seg til å bli ganske relevant de siste årene, stadig er det ulike fitness influensere, kroppsbyggere og coacher som presenterer ulike teorier og meninger, men hva er det egentlig litteraturen og forskningen sier?
+
+I analysen av de utvalgte studiene benyttes QALMRI-metoden, det vil også bli gjennomgått de sentrale komponentene i hver enkelt studie. På denne måten kan studiene enklere sammenliknes. I denne oppgaven er nødvendigvis ikke resultatene av studiene hovedfokus, men det er i større grad fokus på studienes oppbygning, metode og statiske analyse.
+
+# Utvalg av studier
+
+Henholdsvis baserer denne undersøkelsen seg på artiklene:
+
+1. Effects of resistance training performed to repetition failure or non-failure on muscular strenght and hypertrophy: a systematic review and meta-analysis (Grgic et al., 2021).
+
+2. Influence of Resistance training proximity-to-failure on skeletal muscle hypertrophy: A systematic review with meta-analysis (Refalo et al., 2022).
+
+3. Effects of resistance training performed to failure or not to failure on muscle strength, hypertrophy, and power output: A systematic review with meta analysis (Vieira et al., 2021).
+
+4. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscle failure or with repetitions-in-reserve in resistance-trained individuals (Refalo et al., 2023).
+
+5. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy (Lasevicius et al., 2018). Videre i besvarelsen vil studiene bli henvist som tallet de ble tildelt i rekkefølgen over.
+
+## Studienes problemstilling eller hypotese
+
+Alle inkluderte studier undersøker på en eller annen måte hvordan trenings intensitet i forhold til muskulær utmattelse vil påvirke hypertrofi og treningsresultat. Men de spesifikke spørsmålene på tvers av studiene varierer noe. Dette baserer seg på treningsmetode, statiske analyser og spesielt interesse området forskerne hadde til studiet. Majoriteten av studiene presenterer en hypotese som forklarer at en bestemt trenings intensitet vil medføre bedre resultat av treningen. Eksempel på en slik hypotese er; "trening til muskulær utmattelse gir større hypertrofi sammenliknet med trening med repetisjoner i reserve" (refalo et al., 2023). Enkelte studier bruker også spørsmål for å undersøke effekten av treningsmetodene. Et eksempel på dette er studien til Grgic et al., (2021) "Vil det å trene til muskulær utmattelse gi mer hypertrofi og muskelstyrke enn å avslutte treningen før muskulær utmattelse?" Spørsmålene og hypotesene som formuleres i studiene er med på å diktere studienes utforming og setter standarden i undersøkelsen av hvordan treningsintensiteten kan påvirke hypertrofi og muskelstyrke. Dette samsvarer med utsagnene til Hulley et al., (2013) som forteller at slike spørsmål og/eller hypoteser er grunnpillarene som omfatter dannelsen av protokol.
+
+Til tross for at alle studier bygger på svært lik problemstilling, så er det enkelte ulike interesse punkter innad de ulike studiene. Eksempelvis så ønsker artikkel 1 å undersøke signifikante forskjeller mellom trening til muskulær utmattelses vs. uten å trene til utmattelse kan medvirke effektiviteten til muskelhypertrofi og styrkeøkning. Artikkel 2 vinkler dette noe annerledes ved å stille spørsmål om det eksisterer en optimal rekkevidde fra failure som makismerer muskelhypertrofi, eller om det er trening til muskulær utmattelse, artikkel 3 deler store likheter, men inkluderer også hvordan treningsintensiteten vil påvirke maksimal styrke, muskelhypertrofi og kraftproduksjon.
+
+# Metode, statistikk og studie design
+
+## Studie design
+
+Studiene inkludert benytter seg av en kvantitativ metodisk tilnærming og er enten randomiserte kontroll studier (RCT), eller observasjons studier, eller meta-analyser.
+
+### Randomiserte kontroll studier
+
+RCT er ansett som å være gullstandarden i forskning, denne "tittelen" skyldes at RCT produsere valide og reliable resultater på både årsak og effekt. RCT studier fordeler kandidatene tilfeldig i to grupper, disse gruppene er en intervensjons gruppe og en kontroll gruppe. Intervensjons gruppen er den gruppen som hypotesen utføres på. For eksempel fra de inkluderte studiene, intervensjonsgruppen er de som trener til muskulær utmattelse, og kontroll gruppen til de som trener med repetisjoner i reserve (ikke utmattelse). Denne metoden bidrar til å begrense skjevheter, og det blir lettere å oppdage forskjeller påvirket av intervensjonen, og ikke andre faktorer (Hulley et al., 2013, s.137-143).
+
+### Observasjonsstudier
+
+Observasjonsstudier som for eksempel kohorte- og case-kontrollstudier kan ikke gi oss like godt grunnlag for å fastslå årsakssammenheng sammenlignet med RCT, men de kan være et nyttig verktøy for å videre utvikle hypotesen, danne nye hypoteser, eller å identifisere mulige risikofaktorer. Det er ikke i alle situasjoner hvor det vil være etisk riktig å utføre en RCT studie, eller ikke alltid er gjennomførbare, og ved slike tilfeller kan en observasjonsstudie være nyttig å gjennomføre (Hulley et al., 2013).
+
+### Deltaker utvalg
+
+En sentral del i oppsettet av en studie er inkluderings kriterier av utvalg eller deltakere. Gjennomgående kriterier som stilles til utvalget av utvalget innad i studiene er treningsbakgrunn og alder, hvor majoriteten av deltakere er unge voksne som kan vise til en treningsbakgrunn innenfor styrketrening. Ved å følge strenge kriterier for utvalg i en studie bidrar til å sikre en bedre homogenitet. I følge Hulley et al., (2013) vil bedre homogenitet være viktig i slike undersøkelser, det vil sikre mer pålitelige resultater og minimere sannsynlighet for påvirkning av andre faktorer. For eksempel, dersom det var en stor skjevfordeling av deltakere med ulike treningsbakgrunn, ville dette kunne være kritisk for resultatet av undersøkelsen. Skyldes da en eventuel forskell trenings intensitet, eller mindre treningshistorikk i den ene intervensjons gruppen?
+
+## Statistikk
+
+### Effektstørrelse, Standardized mean difference (SMD) og mean difference (MD)
+
+Å beregne effektstørrelsen er den vanligste metoden for å sammenlikne resultater fra ulike studier i meta-analyser. Når studiene som anvendes i analysen måler det samme utfallet, men med ulike skalaer, benyttes SMD. For eksempel, dersom en av studiene måler hypertrofi i antall milimeter, men en annen måler i prosent, kan resultatene standardiseres og dermed måles opp mot hverandre. Dersom studiene inkludert måler utfallet på samme skala, benyttes MD.
+
+### Heterogenitetsanalyse
+
+Cochran’s Q-test måler om variansen på tvers av studienes effektstørrelser er større enn det som kan forventes av tilfeldigheter, og om denne er signifikant, kan det tyde på at studiene har høy heterogenitet.
+
+I²-statistikk brukes som et mål for heterogenitet i meta-analyser, altså varians mellom resultatene fra de ulike studiene som anvendes i analysen. Målet med I² er å kunne kvantifisere hvor stor andel av varisjonen som er forårsaket differanse på tvers av studiene, og ikke en tilfeldig variasjons. I² verdien varierer fra 0 % til 100%, og hvor 75 % eller mer antyder en høy heterogenitet.
+
+### Fixed- vs. Random effects model
+
+Benyttes i meta-analyser for å kombinere resultatene fra de ulike studiene inkludert. Fixed effects benyttes om studiene inkludert er konsistente. Dersom studiene inkludert kan vise til en høy heterogenitet vil det være hensiktsmessig å benytte en random effects model.
+
+Studiene som ble inkludert i flere av meta-analysene målte resultatene i ulike øvelser, dermed var random effects model til å foretrekke.
+
+### T-test
+
+T-test kan anvendes sammenlikne gjennomsnittlig endringen i hypertrofi i begge grupper. T-testen kan deretter vise om en eventuell forskjell av trening til muskulær utmattelse vs. repetisjoner i reserve utgjør en signifikant forskjell på hypertrofi og muskelstyrke.
+
+### P-verdi
+
+P-verdi benyttes i alle studiene til å fortelle om en eventuell endring er statistisk signifikant. I begge RCT studiene er vel og merke størrelsesutvalget noe begrenset, og det kan øke risikoen for type I-feil (å finne en effekt som ikke er der) og type II-feil (ikke finne en effekt som finnes).
+
+# Analyse av studiene
+
+## Styrker med studiene
+
+### Studie 1-3
+
+Studie 1, 2 og 3 er systematiske gjennomganger og meta-analyser, dette tilrettelegger for å få et bredt innsikt over eksisterende forskning som allerede hadde undersøkt effektene av trening til muskulær utmattelse vs. trening med repetisjoner i reserve. Meta-analyser baserer seg som oftest på et bredt utvalg av prinærstudier, og ksn dermed gi ett pålitelig estimat av effekten trening til muskulær utmattelse eventuelt medfører.
+
+Analyse metodene anvendt i disse studiene tilrettelegger for å kunne vektlegge resultatene fra ulike studier basert på størrelses utvalg og varians, og dette kan være gunstig for å gi mer robuste og generaliserbare funn. Analysene benytter seg også av effektstørrelser, og dette kan gjøre samnelikningen på effekten i studiene enklere.
+
+### Studie 4-5
+
+Begge disse studiene bruker et randomisert kontrollert studie design (RCT), som nevnt tidligere vil dette studie designet begrense skjevheter, og sikre at en eventuell differanse i resulatet av ulik intensitet skyldes intervensjonen.
+
+I studie 5 så er treningsvolumet mellom intensitets gruppene standardisert, dette er med på å nøyere isolere effekten av intensitet på hypertrofi og muskelstyrke.
+
+Begge studiene brukte flere målemetoder for å undersøke hypertrofi og muskelstyrke, målemetodene for hypertrofi var DEXA og ultralyd, og for muskelstyrke ble det benyttet 1-RM test. Disse målingene gir pressise mål og data av utfallet, og er en viktig del for å kunne si noe om resultatet av studien.
+
+## Svakheter med studiene
+
+### Studie 1-3
+
+I meta-analyser så kan det være en potensiell svakhet i heterogeniteten i de inkluderte studiene. Om metoden eller populasjon varierer i stor grad, kan det medføre at det blir mer utfordrende i å trekke generelle konklusjoner, og videre kan det svekke validiteten i funnene.
+
+En utfordring med å benytte meta-analyse som studie design er å kontrollere for alle potensielle variabler. Eksempel på dette er at de ulike studiene innvolvert i analysene kan følge ulike treningsprotokoller eller målinger. Stor varians av populasjon kan også påvirke resultatene.
+
+### Studie 4-5
+
+En utfordring som ofte kan påvirke studier innenfor trening eller idrett er størrelsen av utvalget. Mindre utvalg øker sannsynligheten for lav statistisk styrke, og dermed øker sannsynligheten for type II-feil (ikke avdekke en effekt til tross for at den eksisterer). Ettersom det ikke ble oppgitt power-beregning, bidrar det til å skape usikkerheter om utvalgsstørrelsen var stor nok til å gi ett pressist svar på hypotesen.
+
+Studie 4 baserte studien på unge voksne som alt var styrketrente, dette kan medføre at funnene ikke kan generaliseres til populasjonsgrupper som ikke deler samme treningshistorikk, eller i andre alderskategorier. Men det skal nevnes at dette ikke trenger å være en svakhet.
+
+# Anbefalninger for fremtidige studier
+
+Fremtidig studier kan med fordel baseres på en større utvalgsstørrelse, dette for å øke statistisk styrke. Det burde benyttes en beregning av power, for å kunne sikre at utvalget er tilstrekkelig nok for å påvise en eventuell forskjell på trening til muskulær utmattelse og med repetisjoner i reserve. Dersom rekrutteringen av deltakere viser seg å bli utfordrende, kan prosjektet utføres over flere runder med ulike utvalg for å samle inn mest mulig data.
+
+Det kan være interessant i å videre undersøke om treningsintensitet vil påvise andre resultater på en annen populasjon. Dette kan eventuelt være ulike aldersgrupper, kjønn, eller ulike treningsstatus.
+
+# Avslutning
+
+Studiene inkludert i denne undersøkelsen baseres på studiedesign med gode styrker som vil påvirke resultatene positivt. Det skal nevnes at de også kommer med sine svakheter. For å kunne besvare om trening til muskulær utmattelse eller med repetisjoner i reserve er mer effektivt, vil det være svært fordelaktig å basere seg på et større utvalg. På denne måten kan vi med større sannsynlighet avdekke ulikheter mellom intensitetene.
+
+# Referanser
+
+Hulley, S. B. (2013). Designing clinical research. Philadelphia, Wolters Kluwer/Lippincott Williams & Wilkins.
